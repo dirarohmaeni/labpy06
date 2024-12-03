@@ -48,11 +48,27 @@ python input_nilai_mahasiswa.py
 Setelah program berjalan, Anda akan melihat menu pilihan:
 
 
+
 Menu:
+
+
+
 t - Tambah Mahasiswa
+
+
+
 l - Tampilkan Mahasiswa
+
+
+
 u - Ubah Mahasiswa
+
+
+
 h - Hapus Mahasiswa
+
+
+
 k - Keluar
 Masukkan pilihan sesuai dengan yang ingin Anda lakukan.
 
@@ -80,10 +96,25 @@ Tambah Mahasiswa:
 
 
 t
+
+
+
 Nama: dira
+
+
+
 NIM: 555555
+
+
+
 Nilai Tugas: 90
+
+
+
 Nilai UTS: 90
+
+
+
 Nilai UAS: 90
 
 
@@ -93,7 +124,13 @@ Tampilkan Mahasiswa:
 
 
 l
+
+
+
 Daftar nilai
+
+
+
 =====================================================================
 | NO | NAMA          | NIM       | TUGAS | UTS   | UAS   | AKHIR |
 =====================================================================
@@ -106,12 +143,29 @@ Ubah Mahasiswa:
 
 
 u
+
+
+
 Masukkan nama mahasiswa yang akan diubah: dira
 Data baru:
+
+
+
 Nama: dira
+
+
+
 NIM: 555555
+
+
 Nilai Tugas: 90
+
+
+
 Nilai UTS: 90
+
+
+
 Nilai UAS: 90
 
 
@@ -120,6 +174,9 @@ Hapus Mahasiswa:
 
 
 h
+
+
+
 Masukkan nama mahasiswa yang akan dihapus: dira
 
 
